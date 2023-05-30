@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6b63f77895af4174f9294d592ef6034b, type: 3}
+    - {fileID: 2800000, guid: 37d977c5aa927c34983263b85c2a2a64, type: 3}
+    - {fileID: 2800000, guid: af5a5d5b2bfad6140b48a83fc3981e6d, type: 3}
+    - {fileID: 2800000, guid: 97ab871cdcf3b084dbd3d9ad544f24b4, type: 3}
+    - {fileID: 2800000, guid: 4994f2c532eca5140aa76ebf6e065ca8, type: 3}
+    - {fileID: 2800000, guid: cd447fd1a98495d499728f8bd520d1f2, type: 3}
+    - {fileID: 2800000, guid: be0beb06908eb4c4bb0e2e516329f9a5, type: 3}
+    - {fileID: 2800000, guid: 2994ffd50812fff46ab841b6e44954f0, type: 3}
+    - {fileID: 2800000, guid: 71fc350094e93c14184dad30b07060aa, type: 3}
+    - {fileID: 2800000, guid: 3a5df27d8112ac14c8802daf23afafb5, type: 3}
+    - {fileID: 2800000, guid: 832a9eb899c537f439321f291b7ed000, type: 3}
+    - {fileID: 2800000, guid: 37d977c5aa927c34983263b85c2a2a64, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 71fc350094e93c14184dad30b07060aa, type: 3}
+  - {fileID: 21300000, guid: cd447fd1a98495d499728f8bd520d1f2, type: 3}
+  - {fileID: 21300000, guid: 4994f2c532eca5140aa76ebf6e065ca8, type: 3}
+  - {fileID: 21300000, guid: 37d977c5aa927c34983263b85c2a2a64, type: 3}
+  - {fileID: 21300000, guid: 2994ffd50812fff46ab841b6e44954f0, type: 3}
+  - {fileID: 21300000, guid: be0beb06908eb4c4bb0e2e516329f9a5, type: 3}
+  - {fileID: 21300000, guid: 6b63f77895af4174f9294d592ef6034b, type: 3}
+  - {fileID: 21300000, guid: 832a9eb899c537f439321f291b7ed000, type: 3}
+  - {fileID: 21300000, guid: af5a5d5b2bfad6140b48a83fc3981e6d, type: 3}
+  - {fileID: 21300000, guid: 97ab871cdcf3b084dbd3d9ad544f24b4, type: 3}
+  - {fileID: 21300000, guid: 3a5df27d8112ac14c8802daf23afafb5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Frame_tile_06
+  - coin_1
+  - button_empty_5
+  - 7
+  - Frame_tile_05
+  - Frame_tile_01
+  - zavod-128x128
+  - stroitel
+  - 1303507907_User_Green-128x128
+  - button_close
+  - Icons_05
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
